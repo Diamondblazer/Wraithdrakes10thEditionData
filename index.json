@@ -1,0 +1,17 @@
+{
+  "gameSystem": {
+    "name": "Warhammer 40,000 10th Edition (Wraithdrakes)",
+    "revision": 1,
+    "battleScribeVersion": "2.03",
+    "authorName": "Carter",
+    "authorContact": "",
+    "authorUrl": ""
+  },
+  "dataIndexEntries": [
+    {
+      "name": "Space Marines (Wraithdrakes)",
+      "file": "Imperium - Space Marines Wraithdrakes Integrated v2.cat",
+      "revision": 1
+    }
+  ]
+}
